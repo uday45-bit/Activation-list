@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+.DS_Store
+*.xlsx
+*.csv
+!sample_*.xlsx
+!sample_*.csv
+!master_data.csv
+!pos_supply_status.xlsx
